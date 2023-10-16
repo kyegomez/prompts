@@ -5,6 +5,8 @@ Prompts I use daily for documentation, generating tests, and other tasks:
 
 - [Documentation](/prompts/documentation.txt)
 - [Tests](/prompts/tests.txt)
+- Generate Readme
+- Debug -> Find root cause
 
 
 # License
