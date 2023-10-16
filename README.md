@@ -1,8 +1,10 @@
 [![Multi-Modality](agorabanner.png)](https://discord.gg/qUtxnK2NMf)
 
 # Prompts
-A easy, reliable, fluid template for python packages complete with docs, testing suites, readme's, github workflows, linting and much much more
+Prompts I use daily for documentation, generating tests, and other tasks:
 
+- [Documentation](/prompts/documentation.txt)
+- [Tests](/prompts/tests.txt)
 
 
 # License
